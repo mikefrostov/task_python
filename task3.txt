@@ -1,0 +1,13 @@
+
+Personally, I would 
+1) build a docker image with my app 
+
+I know of other ways such as
+2) building a deb or rpm package for linux distros
+3) creating JAR files for Java applications
+4) creating PyPi package for python 
+5) using NW for nodejs-based apps 
+
+
+
+

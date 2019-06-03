@@ -1,0 +1,7 @@
+5 ways to make an application start automatically
+
+1) taskmanager startup
+2) WinAPI program
+3) sevice 
+4) scheduler
+5) shell:startup
